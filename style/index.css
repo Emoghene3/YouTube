@@ -1,4 +1,26 @@
 embed{
-    height: 2050px;
-    width: 720px;
+    width: 270px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.first-row{
+    display: flex;
+}
+
+.second-row{
+    display: flex;
+}
+
+.third-row{
+    display: flex;
+}
+
+h3{
+    padding-left: 40px;
+    font-size: medium;
+}
+p{
+    padding-left: 40px;
+    font-size: medium;
 }
