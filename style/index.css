@@ -24,3 +24,6 @@ p{
     padding-left: 40px;
     font-size: medium;
 }
+span{
+    display: flex;
+}
